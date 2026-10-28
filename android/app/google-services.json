@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248702433969",
+    "project_id": "lifenote-f61c3",
+    "storage_bucket": "lifenote-f61c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248702433969:android:2dbfcf38e51946406e4090",
+        "android_client_info": {
+          "package_name": "com.example.lifenote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3_9YU05ZVHsGeCPLUZXkuNTTptipdbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
